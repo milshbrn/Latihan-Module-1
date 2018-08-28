@@ -1,0 +1,41 @@
+ /* body {
+    background: url("1.jpg");
+    background-position: left top;
+    background-size 100% 100%;
+}  */
+
+/* h1 {
+    font-family: Indie Flower;
+font-style: italic;
+text-transform: uppercase; */
+/* text-decoration: line-through; */
+/* text-shadow: -4px 4px 4px red; */
+/* line-height: 50%;
+letter-spacing: 2px;
+word-spacing: 4px;
+text-align: left;
+text-indent: 2rem
+} */
+
+body {
+    /* margin: 0; */
+    background-color:saddlebrown
+}
+
+.konten{
+    background-color:palevioletred;
+    border: 1px solid black;
+    /* width: 100px;
+    height: 100px; */
+    margin: 30px;
+    padding: 50px;
+
+.abi{
+    background-color:palevioletred;
+    border: 1px solid black;
+    /* width: 100px;
+    height: 100px; */
+    margin: 30px;
+    padding: 50px;
+}
+}
