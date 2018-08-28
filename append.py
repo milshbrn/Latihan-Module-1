@@ -39,3 +39,7 @@ def menuItem():
 
 if(True):
     mainMenu()
+
+
+
+    # Coba Yuk heheheh
